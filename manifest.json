@@ -1,1 +1,150 @@
-
+{
+  "pos_cashier": {
+    "windows": {
+      "latest_version": "1.0.0",
+      "min_version": "1.0.0",
+      "download_url": "",
+      "release_notes": "Initial release",
+      "force_update": false
+    },
+    "macos": {
+      "latest_version": "1.0.0",
+      "min_version": "1.0.0",
+      "download_url": "",
+      "release_notes": "Initial release",
+      "force_update": false
+    },
+    "linux": {
+      "latest_version": "1.0.0",
+      "min_version": "1.0.0",
+      "download_url": "",
+      "release_notes": "Initial release",
+      "force_update": false
+    },
+    "android": {
+      "latest_version": "1.0.0",
+      "min_version": "1.0.0",
+      "download_url": "",
+      "release_notes": "Initial release",
+      "force_update": false
+    },
+    "ios": {
+      "latest_version": "1.0.0",
+      "min_version": "1.0.0",
+      "download_url": "",
+      "release_notes": "Initial release",
+      "force_update": false
+    }
+  },
+  "kds": {
+    "windows": {
+      "latest_version": "1.0.0",
+      "min_version": "1.0.0",
+      "download_url": "",
+      "release_notes": "Initial release",
+      "force_update": false
+    },
+    "macos": {
+      "latest_version": "1.0.0",
+      "min_version": "1.0.0",
+      "download_url": "",
+      "release_notes": "Initial release",
+      "force_update": false
+    },
+    "linux": {
+      "latest_version": "1.0.0",
+      "min_version": "1.0.0",
+      "download_url": "",
+      "release_notes": "Initial release",
+      "force_update": false
+    },
+    "android": {
+      "latest_version": "1.0.0",
+      "min_version": "1.0.0",
+      "download_url": "",
+      "release_notes": "Initial release",
+      "force_update": false
+    },
+    "ios": {
+      "latest_version": "1.0.0",
+      "min_version": "1.0.0",
+      "download_url": "",
+      "release_notes": "Initial release",
+      "force_update": false
+    }
+  },
+  "cds": {
+    "windows": {
+      "latest_version": "1.0.0",
+      "min_version": "1.0.0",
+      "download_url": "",
+      "release_notes": "Initial release",
+      "force_update": false
+    },
+    "macos": {
+      "latest_version": "1.0.0",
+      "min_version": "1.0.0",
+      "download_url": "",
+      "release_notes": "Initial release",
+      "force_update": false
+    },
+    "linux": {
+      "latest_version": "1.0.0",
+      "min_version": "1.0.0",
+      "download_url": "",
+      "release_notes": "Initial release",
+      "force_update": false
+    },
+    "android": {
+      "latest_version": "1.0.0",
+      "min_version": "1.0.0",
+      "download_url": "",
+      "release_notes": "Initial release",
+      "force_update": false
+    },
+    "ios": {
+      "latest_version": "1.0.0",
+      "min_version": "1.0.0",
+      "download_url": "",
+      "release_notes": "Initial release",
+      "force_update": false
+    }
+  },
+  "notifier": {
+    "windows": {
+      "latest_version": "1.0.0",
+      "min_version": "1.0.0",
+      "download_url": "",
+      "release_notes": "Initial release",
+      "force_update": false
+    },
+    "macos": {
+      "latest_version": "1.0.0",
+      "min_version": "1.0.0",
+      "download_url": "",
+      "release_notes": "Initial release",
+      "force_update": false
+    },
+    "linux": {
+      "latest_version": "1.0.0",
+      "min_version": "1.0.0",
+      "download_url": "",
+      "release_notes": "Initial release",
+      "force_update": false
+    },
+    "android": {
+      "latest_version": "1.0.0",
+      "min_version": "1.0.0",
+      "download_url": "",
+      "release_notes": "Initial release",
+      "force_update": false
+    },
+    "ios": {
+      "latest_version": "1.0.0",
+      "min_version": "1.0.0",
+      "download_url": "",
+      "release_notes": "Initial release",
+      "force_update": false
+    }
+  }
+}
