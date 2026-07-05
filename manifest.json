@@ -1,9 +1,9 @@
 {
   "pos": {
     "windows": {
-      "latest_version": "1.0.1",
+      "latest_version": "1.0.2",
       "min_version": "1.0.0",
-      "download_url": "https://github.com/alhissiimad/ThiqahSystemAppReleases/releases/download/pos-v1.0.1/ThiqahCashier1.0.1.exe",
+      "download_url": "https://github.com/alhissiimad/ThiqahSystemAppReleases/releases/download/pos-v1.0.1a/ThiqahCashier1.0.1a.exe",
       "release_notes": "Initial release",
       "force_update": false
     },
